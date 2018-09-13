@@ -1,4 +1,4 @@
-
+# using 3 classes in the MNIST dataset for training
 import torch
 from torch.utils.data.sampler import SubsetRandomSampler      
 from torchvision import datasets, transforms  
